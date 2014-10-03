@@ -1,22 +1,20 @@
 # [OAuthAsyncTaskLib v0.0.1]
 
 You love using OAuth2.0 because of openess, security and standardisation?
-You found Oltu lib[Oltu Lib](https://oltu.apache.org/) and make
+You found Oltu lib](https://oltu.apache.org/) and make
 
 OAuthAsyncTaskLib provides a simple way to call OAuth server based on Oltu.
 
 To use it, declare your own string xml for the url:
 
-  <!-- URL to get OAuth token -->
   <string name="url_get_oauthtoken"></string>
-  <!-- URL to refresh OAuth token -->
   <string name="url_refresh_oauthtoken"/>
 
 
 ## Authors
 
 **Stéphane Castrec**
-+ http//twitter.com/_Stephane_
++ [@_Stephane_](http//twitter.com/_Stephane_)
 
 ## Copyright and license
 
