@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- URL to get OAuth token -->
+  <string name="url_get_oauthtoken"></string>
+  <!-- URL to refresh OAuth token -->
+  <string name="url_refresh_oauthtoken"/>
+</resources>
