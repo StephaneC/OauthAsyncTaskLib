@@ -14,7 +14,7 @@ To use it, declare your own string xml for the url:
 ## Authors
 
 **Stéphane Castrec**
-+ [@_Stephane_](http//twitter.com/_Stephane_)
++ [@_Stephane_](https://twitter.com/_Stephane_)
 
 ## Copyright and license
 
